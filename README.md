@@ -54,3 +54,6 @@ if the trends discovered in Research Question 1 and 2 holds true.
 ➢ How is US doing in terms of mobility and testing? 
 
 ➢ Does this case study support the previous findings?
+
+![coronavirus-data-explorer](https://user-images.githubusercontent.com/47033532/149674769-fc6515e8-e929-4466-9eae-c048b2f262d5.png)
+
